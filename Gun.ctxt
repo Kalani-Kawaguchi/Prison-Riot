@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Gun
+comment1.params=world
+comment1.target=Gun(greenfoot.World)
+comment2.params=player\ mouseInfo
+comment2.target=void\ use(Player,\ greenfoot.MouseInfo)
+comment3.params=player\ mouseInfo
+comment3.target=void\ shootBullet(Player,\ greenfoot.MouseInfo)
+comment4.params=player\ mouseInfo
+comment4.target=void\ createFlash(Player,\ greenfoot.MouseInfo)
+numComments=5

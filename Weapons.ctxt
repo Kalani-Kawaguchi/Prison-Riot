@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Weapons
+comment1.params=
+comment1.target=Weapons()
+comment2.params=player\ mouseInfo
+comment2.target=void\ use(Player,\ greenfoot.MouseInfo)
+comment3.params=
+comment3.target=greenfoot.GreenfootImage\ getSprite()
+comment4.params=
+comment4.target=int\ getDamage()
+numComments=5

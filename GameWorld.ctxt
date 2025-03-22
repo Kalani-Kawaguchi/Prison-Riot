@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=GameWorld
+comment1.params=
+comment1.target=GameWorld()
+comment10.params=num
+comment10.target=void\ createLabel(int)
+comment11.params=
+comment11.target=void\ placeButtons()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ prepare()
+comment4.params=
+comment4.target=void\ checkFlash()
+comment5.params=count
+comment5.target=void\ spawnEnemies(int)
+comment6.params=
+comment6.target=void\ checkPlayer()
+comment7.params=
+comment7.target=void\ checkWaveStatus()
+comment8.params=
+comment8.target=void\ gameOver()
+comment9.params=
+comment9.target=void\ gameWin()
+numComments=12

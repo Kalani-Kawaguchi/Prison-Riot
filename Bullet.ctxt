@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Bullet
+comment1.params=directionX\ directionY
+comment1.target=Bullet(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ calculateRotation()
+comment4.params=x\ y
+comment4.target=void\ setStart(int,\ int)
+comment5.params=
+comment5.target=void\ moveBullet()
+comment6.params=
+comment6.target=void\ checkForCollisions()
+numComments=7

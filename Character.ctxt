@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Character
+comment1.params=
+comment1.target=Character()
+comment2.params=
+comment2.target=boolean\ isColliding()
+comment3.params=spriteList\ sheetFileName\ frameCount
+comment3.target=void\ loadSprites(java.util.List,\ java.lang.String,\ int)
+numComments=4
